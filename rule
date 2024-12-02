@@ -1,9 +1,3 @@
-# Gemini
+# block CSDN
 # DOMAIN,generativelanguage.googleapis.com
-DOMAIN-KEYWORD,generativelanguage
-DOMAIN,gemini.google.com
-# DOMAIN,colab.research.google.com
-DOMAIN-KEYWORD,colab
-DOMAIN-SUFFIX,apis.google.com
-# DOMAIN,content-developerprofiles-pa.googleapis.com
-DOMAIN-KEYWORD,developerprofiles
+DOMAIN-KEYWORD,CSDN
