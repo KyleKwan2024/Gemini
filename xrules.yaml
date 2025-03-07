@@ -1,6 +1,7 @@
 payload:
   # > grok
-  - DOMAIN-SUFFIX,ai.com
-  - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,openai.com
-
+  - DOMAIN-KEYWORD,grok
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,t.co
